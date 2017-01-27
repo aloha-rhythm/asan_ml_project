@@ -1,0 +1,4 @@
+# Dicom data Preprocessing
+
+1. Ruby-dicom github -> [ https://github.com/dicom/ruby-dicom ]
+2. Ruby-dicom Tutorial -> [ https://www.sitepoint.com/ruby-on-medicine-converting-dicom-to-jpg ]
