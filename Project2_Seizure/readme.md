@@ -7,3 +7,4 @@
 5. EEG signal processing for epileptic seizure prediction = [ http://www.uc.pt/en/fctuc/dei/ensino/doctoral_program/colloquiumbrunodireito ]
 6. The role of multiple-scale modelling of epilepsy in seizure forecasting = [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4455036/pdf/nihms-634528.pdf ]
 7. Seizure prediction for therapeutic devices: A review = [ http://www.sciencedirect.com/science/article/pii/S0165027015002277 ]
+8. Seizure Prediction and Detection via Phase and Amplitude Lock Values = [ journal.frontiersin.org/article/10.3389/fnhum.2016.00080/full ]
