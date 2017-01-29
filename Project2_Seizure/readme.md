@@ -9,3 +9,4 @@
 7. Seizure prediction for therapeutic devices: A review = [ http://www.sciencedirect.com/science/article/pii/S0165027015002277 ]
 8. Seizure Prediction and Detection via Phase and Amplitude Lock Values = [ journal.frontiersin.org/article/10.3389/fnhum.2016.00080/full ]
 9. Seizure Prediction Methods: A Review of the Current Predicting Techniques = [ https://www.researchgate.net/publication/264250947_Seizure_Prediction_Methods_A_Review_of_the_Current_Predicting_Techniques ]
+10. Epileptic Seizure Prediction using Deep Learning = [ http://lib.ugent.be/fulltxt/RUG01/002/300/902/RUG01-002300902_2016_0001_AC.pdf ]
