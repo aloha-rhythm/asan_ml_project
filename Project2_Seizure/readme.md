@@ -1,4 +1,4 @@
-# Data
+# Data, blogs & Papers
 
 1. open EEG Data = [ https://github.com/sstober/openmiir ]
 2. Kaggle Competition(2016) = [ https://www.kaggle.com/c/melbourne-university-seizure-prediction ]
@@ -8,3 +8,4 @@
 6. The role of multiple-scale modelling of epilepsy in seizure forecasting = [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4455036/pdf/nihms-634528.pdf ]
 7. Seizure prediction for therapeutic devices: A review = [ http://www.sciencedirect.com/science/article/pii/S0165027015002277 ]
 8. Seizure Prediction and Detection via Phase and Amplitude Lock Values = [ journal.frontiersin.org/article/10.3389/fnhum.2016.00080/full ]
+9. Seizure Prediction Methods: A Review of the Current Predicting Techniques = [ https://www.researchgate.net/publication/264250947_Seizure_Prediction_Methods_A_Review_of_the_Current_Predicting_Techniques ]
