@@ -8,3 +8,4 @@
 6. Seizure Prediction and Detection via Phase and Amplitude Lock Values = [ http://journal.frontiersin.org/article/10.3389/fnhum.2016.00080/full ]
 7. Seizure Prediction Methods: A Review of the Current Predicting Techniques = [ https://www.researchgate.net/publication/264250947_Seizure_Prediction_Methods_A_Review_of_the_Current_Predicting_Techniques ]
 8. Epileptic Seizure Prediction using Deep Learning = [ http://lib.ugent.be/fulltxt/RUG01/002/300/902/RUG01-002300902_2016_0001_AC.pdf ]
+9. Kaggle 2016 winning solutions = [ https://github.com/alexandrebarachant/kaggle-seizure-prediction-challenge-2016 ]
